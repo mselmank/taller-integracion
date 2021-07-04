@@ -127,3 +127,8 @@ img.medium {
   margin: 0.1rem;
 
 }
+
+.rating span:last-child{
+
+  color: black;
+}
