@@ -2,6 +2,7 @@ import React from 'react';
 import {BrowserRouter, Route} from 'react-router-dom';
 import HomeScreen from './screens/HomeScreen';
 import ProductScreen from './screens/ProductScreen';
+import Product from './components/Product';
 
 
 
@@ -24,7 +25,7 @@ function App() {
       
       </main>
       <footer className="row center">
-        Created with love By Matias Selman K
+       Matias Selman K
 
       </footer>
 
