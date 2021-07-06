@@ -1,6 +1,6 @@
-# ECommerce
+# ECommerce Inacap 2021
 
-_Acá va un párrafo que describa lo que es el proyecto_
+Proyecto universitario 
 
 ## Comenzando 🚀
 
