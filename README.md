@@ -1,4 +1,4 @@
-# ECommerce Inacap 2021
+# Ecommerce Inacap 2021
 
 Proyecto universitario 
 
