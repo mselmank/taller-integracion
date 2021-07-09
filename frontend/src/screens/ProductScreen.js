@@ -1,8 +1,8 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import data from '../data';
 import Product from '../components/Product';
 import Rating from '../components/Rating';
+import data from '../data'
 
 
 export default function ProductScreen(props) {

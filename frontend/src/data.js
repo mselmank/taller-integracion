@@ -7,7 +7,7 @@ products:[
         image:'../images/p2.jpg',
         price:8990,
         countInStock:0,
-        brand:'generic',
+        brand:'generico',
         rating:4.5,
         numReviews:5,
         description:'Excelente calidad'
@@ -20,7 +20,7 @@ products:[
         image:'../images/p2.jpg',
         price:9990,
         countInStock:20,
-        brand:'generic',
+        brand:'generico',
         rating:4.5,
         numReviews:20,
         description:'Excelente calidad'
@@ -34,7 +34,7 @@ products:[
         image:'../images/p3.jpg',
         price:7990,
         countInStock:5,
-        brand:'generic',
+        brand:'generico',
         rating:4.5,
         numReviews:15,
         description:'Buena calidad'
@@ -48,7 +48,7 @@ products:[
         image:'../images/p4.jpg',
         price:5990,
         countInStock:30,
-        brand:'generic',
+        brand:'generico',
         rating:4.5,
         numReviews:10,
         description:'Excelente calidad'
@@ -62,7 +62,7 @@ products:[
         image:'../images/p4.jpg',
         price:6990,
         countInStock:2,
-        brand:'generic',
+        brand:'generico',
         rating:4.5,
         numReviews:10,
         description:'Excelente calidad'
@@ -76,7 +76,7 @@ products:[
         image:'../images/p4.jpg',
         price:2990,
         countInStock:4,
-        brand:'generic',
+        brand:'generico',
         rating:4.5,
         numReviews:10,
         description:'Excelente calidad'
@@ -89,7 +89,7 @@ products:[
         image:'../images/p4.jpg',
         price:10990,
         countInStock:0,
-        brand:'generic',
+        brand:'generico',
         rating:3.5,
         numReviews:56,
         description:'Excelente '
