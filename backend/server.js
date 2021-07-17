@@ -18,6 +18,10 @@ app.get('/api/products/:id',(req,res)=>{
         res.send(data.products);
       });
 
+      app.get('/', (req, res) => {
+        res.send('Servidor listo');
+      });
+
 const port = process.env.PORT || 5000;
 app.listen(port,()=>{
     console.log(`Servidor http://localhost:${port}`);    
