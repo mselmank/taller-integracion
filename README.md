@@ -1,4 +1,4 @@
-# Ecommerce Inacap 2021
+# ECommerce 
 
 Proyecto universitario. 
 desarrollo de un ECommerce para empresa de ventas de EPP. 
@@ -29,7 +29,7 @@ desarrollo de un ECommerce para empresa de ventas de EPP.
           $ npm start
           
           
-3- ## Run Backend🚀          
+3- ## Run Frontend🚀          
           
         # open new terminal
         $ cd frontend
@@ -38,7 +38,7 @@ desarrollo de un ECommerce para empresa de ventas de EPP.
           
           
           
- ##Demo Website
+## Demo Website
  
   *  👉 Heroku : 
   * 👉 AWS :                  
