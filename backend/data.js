@@ -61,7 +61,7 @@ products:[
         category:'security clothes',
         image:'../images/p4.jpg',
         price:6990,
-        countInStock:2,
+        countInStock:0,
         brand:'generico',
         rating:4.5,
         numReviews:10,
