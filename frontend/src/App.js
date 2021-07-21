@@ -7,6 +7,7 @@ import CartScreen from './screens/CartScreen';
 
 
 
+
 function App() {
   const cart = useSelector((state) => state.cart);
   const {cartItems} = cart;
@@ -15,7 +16,9 @@ function App() {
     <div className="grid-container">
       <header className="row">
         <div>
+            
           <Link className="brand" to="/">Segurito</Link>
+        
         </div>
         <div>
           <Link to="/cart">Carrito{cartItems.length > 0 &&(

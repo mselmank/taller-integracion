@@ -33,7 +33,7 @@ font-family:Arial, Helvetica, sans-serif ;
 
 header{
 grid-area: header;
-background-color: #2b537a;
+background-color: #f6e01a;
 }
 
 main{
@@ -43,7 +43,7 @@ padding:1rem ;
 }
 footer{
 grid-area: footer;
-background-color: #2b537a;
+background-color: #f6e01a;
 color:#ffffff ;
 }
 /* Common */
@@ -113,13 +113,15 @@ border: 0.1rem #141414 solid;
 
 /*Header*/
 header a{
-color: #ffffff;
+color: #03365f;
 padding: 1rem;
+font-weight: bold;
+
 
 }
 a.brand{
 
-  color: #ffffff;
+  color: #03365f;
   font-size: 3rem;
   font-weight: bold;
 }
@@ -159,12 +161,22 @@ flex: 1 1 25rem;
   flex: 2 1 50rem;
   
   }
+  .min-30{
+
+    min-width: 30rem;
+  }
   
 
 /* Images*/
 img{
   border-radius: 0.5rem;
   
+}
+img.small{
+
+  max-width: 9rem;
+  width: 100%;
+
 }
 img.medium {
   max-width: 29rem;
@@ -228,3 +240,4 @@ background-color: #e0e0ff;
   background-color: #ffe0e0e0;
 
 }
+
