@@ -3,7 +3,7 @@ import { useDispatch, useSelector } from 'react-redux';
 import { addToCart, removeFromCart } from '../actions/cartActions';
 import MessageBox from '../components/MessageBox';
 import { Link } from 'react-router-dom';
-import product from '../components/Product'
+
 
 export default function CartScreen(props) {
 
