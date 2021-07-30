@@ -33,7 +33,7 @@ font-family:Arial, Helvetica, sans-serif ;
 
 header{
 grid-area: header;
-background-color: #f6e01a;
+background-color: #dbac2b;
 }
 
 main{
@@ -43,7 +43,7 @@ padding:1rem ;
 }
 footer{
 grid-area: footer;
-background-color: #f6e01a;
+background-color: #dbac2b;
 color:#ffffff ;
 }
 /* Common */
@@ -207,7 +207,7 @@ img.medium {
 
 /* Rating*/
 .rating span{
-  color: #f0c040;
+  color: #dbac2b;
   margin: 0.1rem;
 
 }
@@ -241,3 +241,44 @@ background-color: #e0e0ff;
 
 }
 
+/*form*/
+.form{
+
+max-width: 60rem;
+margin: 0 auto;
+
+}
+
+.form > div{
+
+  display: flex;
+  flex-direction: column;
+  margin: 1rem;
+  }
+  .from label{
+
+    margin: 1rem 0;
+    display: block;
+  }
+
+  /*dropdown*/
+
+  .dropdown{
+    display:inline-block;
+    position: relative;
+  }
+.dropdown-content{
+position: absolute;
+display: none;
+right: 0;
+min-width: 15rem;
+padding: 1rem;
+z-index:1;
+background-color: #203040;
+margin: 0;
+margin-top: 0.5rem;
+border-radius: 0.5rem;
+}
+.dropdown:hover .dropdown-content{
+display: block;
+}
