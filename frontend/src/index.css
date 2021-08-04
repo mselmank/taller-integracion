@@ -220,6 +220,13 @@ img.medium {
 .success{
   color:#20a020
 }
+.loading{
+
+
+display: block !important;
+
+
+}
 .danger{
   color: #a02020;
 

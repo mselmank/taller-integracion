@@ -32,7 +32,7 @@ export default function SigninScreen(props) {
         <div>
             <form className='form' onSubmit={submitHandler}>
                 <div>
-                    <h1>Gracias por registrarse</h1>
+                    <h1>Ingrese por favor</h1>
                 </div>
                 <div>
 
