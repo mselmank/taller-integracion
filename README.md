@@ -1,6 +1,6 @@
 # ECommerce 
 
-Proyecto universitario desarrollo de un ECommerce para empresa de ventas de Elementos de protección personal.
+ ECommerce para empresa de ventas de Elementos de protección personal.
 
 📦  #### Run Locally ####📦
                                                               
